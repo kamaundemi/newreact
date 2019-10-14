@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/newreact/static/css/main.4a0a1701.chunk.css",
+    "main.js": "/newreact/static/js/main.a95b9efa.chunk.js",
+    "main.js.map": "/newreact/static/js/main.a95b9efa.chunk.js.map",
+    "runtime-main.js": "/newreact/static/js/runtime-main.369048f8.js",
+    "runtime-main.js.map": "/newreact/static/js/runtime-main.369048f8.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/newreact/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ec1cd35a.chunk.js": "/newreact/static/js/2.ec1cd35a.chunk.js",
+    "static/js/2.ec1cd35a.chunk.js.map": "/newreact/static/js/2.ec1cd35a.chunk.js.map",
+    "index.html": "/newreact/index.html",
+    "precache-manifest.ae385dbdef0d3830cf06c431e87942cd.js": "/newreact/precache-manifest.ae385dbdef0d3830cf06c431e87942cd.js",
+    "service-worker.js": "/newreact/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/newreact/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.4a0a1701.chunk.css.map": "/newreact/static/css/main.4a0a1701.chunk.css.map",
+    "static/media/App.css": "/newreact/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.369048f8.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ec1cd35a.chunk.js",
+    "static/css/main.4a0a1701.chunk.css",
+    "static/js/main.a95b9efa.chunk.js"
+  ]
+}
